@@ -1,0 +1,17 @@
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\bin\Debug\patient monitoring system.exe.config
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\bin\Debug\patient monitoring system.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\bin\Debug\patient monitoring system.pdb
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient monitoring system.csprojResolveAssemblyReference.cache
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.Form1.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.Properties.Resources.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient monitoring system.csproj.GenerateResource.Cache
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient monitoring system.exe
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient monitoring system.pdb
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.admin.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.login.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.addRecord.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.deleteRecord.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.modifyRecord.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.patient.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.doctor.resources
+D:\GATSAN Technologies\GATSAN Technologies\Projects\patient monitoring system\patient monitoring system\obj\Debug\patient_monitoring_system.nurse.resources
